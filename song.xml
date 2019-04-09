@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<catalog>
+  <song id="bk201">
+    <author>matthew</author>
+    <title>song312</title>
+    <genre>young</genre>
+    <views>20000</views>
+    <publishdate>10-10-2010</publishdate>
+    <description>devotional</description>
+  </song>
+  <song id="bk102">
+    <author>joel</author>
+    <title>song321</title>
+    <genre>stoneage</genre>
+    <views>15000</views>
+    <publishdate>03-19-1800</publishdate>
+    <description>devotional</description>
+  </song>
+</catalog>
+
